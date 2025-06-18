@@ -11,8 +11,6 @@ Inspired by [awesome][awesome].
 
 - [Examples](#examples)
 - [Articles](#articles)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Examples
 
@@ -28,10 +26,6 @@ Inspired by [awesome][awesome].
 
 Welcome to contribute to this repository! For more details,
 please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
-## License
-
-[MIT](./LICENSE)
 
 [awesome]: https://github.com/sindresorhus/awesome
 [userinyerface]: https://userinyerface.com/
