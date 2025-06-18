@@ -5,7 +5,7 @@
 [![Linting](https://github.com/kurone-kito/awesome-bad-ui-ux/actions/workflows/lint.yml/badge.svg)](https://github.com/kurone-kito/awesome-bad-ui-ux/actions/workflows/lint.yml)
 
 A curated list of poorly designed user interfaces and user experiences.
-Inspired by [awesome][awesome].
+Inspired by [awesome][].
 
 ## Contents
 
