@@ -17,9 +17,6 @@ Inspired by [awesome][awesome].
 ## Examples
 
 - [Deceptive Design][deceptive-design] - Catalog of manipulative design practices, formerly known as Dark Patterns.
-- [Misleading Cookie Banners][cookie-banners] - Examples of cookie dialogs that pressure users into consent.
-- [Norman Doors][norman-doors] - Vox video about doors that make you push when you should pull.
-- [Scroll Jacking Showcase][scroll-jacking] - Demonstration of scroll jacking problems.
 - [User Inyerface][userinyerface] - Interactive showcase of confusing forms and patterns.
 
 ## Articles
@@ -39,8 +36,5 @@ please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 [awesome]: https://github.com/sindresorhus/awesome
 [userinyerface]: https://userinyerface.com/
 [deceptive-design]: https://www.deceptive.design/
-[cookie-banners]: https://www.nngroup.com/articles/misleading-cookie-banners/
-[norman-doors]: https://www.youtube.com/watch?v=wa1YjItUWZg
-[scroll-jacking]: https://web.archive.org/web/20220101000000/https://uxmovement.com/navigation/never-use-page-scrolling-jacking/
 [top10]: https://www.nngroup.com/articles/top-10-mistakes-web-design/
 [infinite-scroll]: https://www.nngroup.com/articles/infinite-scrolling/
