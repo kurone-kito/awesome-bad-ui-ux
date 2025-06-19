@@ -1,27 +1,10 @@
-allowCompoundWords: true
-dictionaries:
-  - en_US
-  - en-gb
-  - git
-  - markdown
-  - misc
-  - softwareTerms
-enableGlobDot: true
-features:
-  weighted-suggestions: true
-globRoot: ${cwd}
-ignorePaths:
-  - .*ignore
-  - .git
-  - .github/CODE_OF_CONDUCT.*
-  - .vscode/extensions.json
-  - cspell.config.yml
-language: en,eo,ja
-useGitignore: true
+cache:
+  cacheFormat: universal
+  cacheLocation: node_modules/.cache/cspell/.cspell.cache
+  cacheStrategy: metadata
+  useCache: true
+import:
+  - '@kurone-kito/cspell-config'
 version: '0.2'
 words:
-  - imgbotconfig
   - inyerface
-  - kito
-  - kuron
-  - kuroné
