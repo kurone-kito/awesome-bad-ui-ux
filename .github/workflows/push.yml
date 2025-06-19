@@ -36,6 +36,8 @@ jobs:
         with:
           cache: ${{ !env.ACT && 'pnpm' || '' }}
           node-version: ${{ matrix.node-version }}
+      - name: Set upstream branch
+        run: git remote set-url origin https://github.com/kurone-kito/awesome-bad-ui-ux.git
       - env:
           HUSKY: 0
         name: Install the dependencies
