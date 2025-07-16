@@ -7,4 +7,8 @@ import:
   - '@kurone-kito/cspell-config'
 version: '0.2'
 words:
+  - badui
+  - cresco
+  - eltax
   - inyerface
+  - qiita
