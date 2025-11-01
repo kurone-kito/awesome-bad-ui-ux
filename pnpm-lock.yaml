@@ -18,8 +18,8 @@ importers:
         specifier: ^19.8.1
         version: 19.8.1
       '@cspell/cspell-types':
-        specifier: ^9.2.0
-        version: 9.2.0
+        specifier: ^9.2.2
+        version: 9.2.2
       '@kurone-kito/biome-config':
         specifier: ^0.20.0
         version: 0.20.0(@biomejs/biome@1.9.4)
@@ -214,6 +214,10 @@ packages:
 
   '@cspell/cspell-types@9.2.0':
     resolution: {integrity: sha512-hL4ltFwiARpFxlfXt4GiTWQxIFyZp4wrlp7dozZbitYO6QlYc5fwQ8jBc5zFUqknuH4gx/sCMLNXhAv3enNGZQ==}
+    engines: {node: '>=20'}
+
+  '@cspell/cspell-types@9.2.2':
+    resolution: {integrity: sha512-/1dRFQ3sEY9Yo+f3w0A8MFJ0BOapQc1uFjlMF19c3uoD/e4PpNLpL1qXY4FeLWKDk1D9VT8SL93J+lIwEi5bvg==}
     engines: {node: '>=20'}
 
   '@cspell/dict-ada@4.1.1':
@@ -2417,6 +2421,8 @@ snapshots:
   '@cspell/cspell-service-bus@9.2.0': {}
 
   '@cspell/cspell-types@9.2.0': {}
+
+  '@cspell/cspell-types@9.2.2': {}
 
   '@cspell/dict-ada@4.1.1': {}
 
